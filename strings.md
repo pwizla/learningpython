@@ -18,3 +18,14 @@ Strings can be concatenated with the plus sign.
 Remember to add spaces in between words.
 
     print "Life " + "is" + " fun!"
+
+# String formatting with %s
+
+Example:
+ 
+    name = raw_input("What is your name?")
+    quest = raw_input("What is your quest?")
+    color = raw_input("What is your favorite color?")
+
+    print "Ah, so your name is %s, your quest is %s, " \
+    "and your favorite color is %s." % (name, quest, color)
