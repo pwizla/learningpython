@@ -1,11 +1,15 @@
-"""  In this project, we'll use Python to write a Mad Libs story! Mad Libs are
-stories with blank spaces that a reader can fill in with their own words. The
-result is usually a funny (or strange) story.
-For this project, we'll provide you with the story (feel free to modify it), but
-it will be up to you to build a program that does the following:
+"""  
+This is a the result of a freeform project assignment from the Codecademy Pro Python course.
+See https://codecademy.com/courses/python-ext/projects/madlibs for details.
 
-1. Prompt the user for input
-2. Print the entire Mad Libs story with the user's input in the right places
+Quoted text from Codecademy: 
+     > In this project, we'll use Python to write a Mad Libs story! Mad Libs are
+       stories with blank spaces that a reader can fill in with their own words. The
+       result is usually a funny (or strange) story.
+       For this project, we'll provide you with the story (feel free to modify it), but
+       it will be up to you to build a program that does the following:
+         1. Prompt the user for input
+         2. Print the entire Mad Libs story with the user's input in the right places
 """
 
 print "Mad Libs has started :-)"
