@@ -8,5 +8,5 @@
 * [string].upper()
 * [string].lower()
 * [string].len()
-* [string].str()
+* [string].str()    
         _turns 2 into "2"_
