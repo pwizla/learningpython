@@ -4,9 +4,9 @@ result is usually a funny (or strange) story.
 For this project, we'll provide you with the story (feel free to modify it), but
 it will be up to you to build a program that does the following:
 
-    1. Prompt the user for input
-    2. Print the entire Mad Libs story with the user's input in the right places
-    """
+1. Prompt the user for input
+2. Print the entire Mad Libs story with the user's input in the right places
+"""
 
 print "Mad Libs has started :-)"
 
