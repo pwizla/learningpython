@@ -10,3 +10,11 @@
 * [string].len()
 * [string].str()    
         _turns 2 into "2"_
+
+# Concatenation
+
+Strings can be concatenated with the plus sign.
+
+Remember to add spaces in between words.
+
+    print "Life " + "is" + " fun!"
